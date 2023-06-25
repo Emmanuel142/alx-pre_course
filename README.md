@@ -1,1 +1,1 @@
-My first readme
+Learning to do hard things
